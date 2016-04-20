@@ -1,0 +1,5 @@
+The main goal of this project is to develop software which can successfully solve a particular set of Sokoban puzzles. These puzzles will vary in difficulty and will each propose significant challenges as regards Sokoban solving techniques.
+
+Another requirement of this project is to compare the programs performance against that of the human player. Data records from human players who have attempted these puzzles in the past have been provided, and contain information on the sequence of moves, the amount of moves taken, and the time in which they were taken etc.
+
+Finally, the program must also use these records to derive Sokoban heuristics, so that they can be applied when automatically solving a puzzle. Therefore, this project requires both software development and experimental and statistical analysis.
